@@ -17,5 +17,6 @@ import cv2
 import numpy as np
 from pyzbar.pyzbar import decode
 
-Output:
+<h4>Output:<h4>
+
 ![output_live_qrcode_reader](https://user-images.githubusercontent.com/67228966/218997771-251458db-61a5-4b7a-b104-9714e63deece.png)
